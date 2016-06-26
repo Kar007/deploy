@@ -1,2 +1,2 @@
-# deploy
-automation for python
+# karfile
+python and shell
